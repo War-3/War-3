@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Walter 
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning backend development
-- 💞️ I’m outspoken and looking forward to collaborate towards building a stong backend codes
+- 💞️ I’m a strong team collaborator, an effective commincator, problem-solver, proactive leader and looks forward to contibute in any project
 
 
 <!---
